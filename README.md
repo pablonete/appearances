@@ -10,10 +10,13 @@ This is a list of webinar, events and other places I've been seen or heard.
 
 ## Conferences
 
-- TODO [*DotNetMálaga 2016*](http://dotnetmalaga.es/2016/) (Spanish)
+- [*DotNetMálaga 2016*](http://dotnetmalaga.es/2016/) (Spanish)
   - December 2016.
   - *Session:* TypeScript al día.
   - What's new in TS 2.0 and what's coming in TS 2.1.
+  - Repo: https://github.com/pablonete/typescript-dotnetmalaga-2016
+  - Trello board: https://trello.com/b/esOi1EL8/typescript-dotnetmalaga-2016
+  - Repeat with minor changes on [OpenSouthCode 2017](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/104)
 
 ## Webinars
 
@@ -27,3 +30,9 @@ This is a list of webinar, events and other places I've been seen or heard.
   - With [Braulio Díez](https://twitter.com/braulio_sl), [Pedro J. Molina](http://pjmolina.com), [Jesús Rodríguez](http://www.angular-tips.com) and José Almoguera.
   - October 2016.
   - Recording at [Youtube](https://www.youtube.com/watch?v=Ic5Ut864iAs).
+
+## Organizing
+
+- [OpenSouthCode 23](https://www.opensouthcode.org/conferences/opensouthcode2023)
+  - Coordinating [OpenSouthKids 23](https://www.opensouthcode.org/conferences/opensouthcode2023/program/proposals/648)
+  - [Activities board](https://github.com/users/opensouthcode/projects/1/views/1)
